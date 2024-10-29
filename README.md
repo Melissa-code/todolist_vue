@@ -1,4 +1,4 @@
-# todolist_vuejs
+# TO DO LIST (Vue JS 2)
 
 ## Project setup
 ```
