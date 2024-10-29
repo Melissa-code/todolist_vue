@@ -1,5 +1,9 @@
 # TO DO LIST (Vue JS 2)
 
+Test the application: [to do list](https://todolist-vue-js-2.netlify.app/)
+
+
+
 ## Project setup
 ```
 npm install
